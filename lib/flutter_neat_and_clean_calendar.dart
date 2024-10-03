@@ -187,7 +187,7 @@ class Calendar extends StatefulWidget {
       this.initialDate,
       this.isExpanded = false,
       this.weekDays = const ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'],
-      this.locale = 'us_US',
+      this.locale = 'en_US',
       this.startOnMonday = false,
       this.dayOfWeekStyle,
       this.bottomBarTextStyle,
